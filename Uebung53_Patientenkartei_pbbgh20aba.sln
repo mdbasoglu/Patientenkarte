@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uebung53_Patientenkartei_pbbgh20aba", "Uebung53_Patientenkartei_pbbgh20aba\Uebung53_Patientenkartei_pbbgh20aba.csproj", "{CFC81743-A03C-4768-A441-5C8E02BEEB9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC81743-A03C-4768-A441-5C8E02BEEB9C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CFC81743-A03C-4768-A441-5C8E02BEEB9C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CFC81743-A03C-4768-A441-5C8E02BEEB9C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CFC81743-A03C-4768-A441-5C8E02BEEB9C}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6241934D-4A15-4189-9429-469FDC94ED2B}
+	EndGlobalSection
+EndGlobal
